@@ -14,9 +14,6 @@ public class PhoneBookController {
 
     public PhoneBookController(PhoneBookService phoneBookService) {
         this.phoneBookService = phoneBookService;
-        String url = "jdbc:postgresql://localhost:5432/postgres";
-        String user = "postgres";
-
     }
 
     @GetMapping(value = "/")
