@@ -187,7 +187,7 @@
       <workItem from="1692001301227" duration="2593000" />
       <workItem from="1692003905371" duration="654000" />
       <workItem from="1692011224029" duration="171000" />
-      <workItem from="1692087724084" duration="18711000" />
+      <workItem from="1692087724084" duration="19368000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1691650672603</created>
@@ -231,16 +231,5 @@
     <MESSAGE value="1" />
     <MESSAGE value="add redirect" />
     <option name="LAST_COMMIT_MESSAGE" value="add redirect" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/example/service/PhoneBookServiceImpl.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

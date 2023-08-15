@@ -8,3 +8,9 @@ CREATE TABLE phonebook(
     description VARCHAR(30),
     CONSTRAINT pk_phonebook PRIMARY KEY (phonebook_id)
 );
+
+INSERT INTO phonebook (last_name, first_name, three_name, number_phone, address, description)
+VALUES
+    ('Иванов', 'Иван', 'Иванович','+7(919)154-56-78', 'ул. Ленина 1, 15', 'рабочий'),
+    ('Петров', 'Пётр', 'Петрович','+7(919)154-56-79', 'ул. Петрова 7, 3', 'рабочий'),
+    ('Сидоров', 'Сидор', 'Сидорович', '+7(919)154-56-80', 'ул. Пушкина 4, 1', 'рабочий')
