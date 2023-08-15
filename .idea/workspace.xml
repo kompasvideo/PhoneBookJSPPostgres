@@ -9,7 +9,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b359ba4b-e445-4af2-90e0-c7d19ae475d2" name="Changes" comment="add redirect" />
+    <list default="true" id="b359ba4b-e445-4af2-90e0-c7d19ae475d2" name="Changes" comment="1">
+      <change beforePath="$PROJECT_DIR$/src/main/resources/database.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/database.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/database.properties.origin" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/database.properties.origin" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +54,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/My/JavaProjects/Video/ZaurTregulov/5/u_5_06_spring_course_mvc_hibernate_aop",
+    "last_opened_file_path": "C:/My/JavaProjects/GitHub/PhoneBookJSPPostgres",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -61,7 +64,7 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.28850573",
     "settings.editor.selected.configurable": "application.passwordSafe",
-    "spring.configuration.checksum": "9f5bc54d4ccaa18e7e2fc312fd2f5041"
+    "spring.configuration.checksum": "b3223762ae56ba0fe0fdfd317f05c041"
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [
@@ -188,6 +191,7 @@
       <workItem from="1692003905371" duration="654000" />
       <workItem from="1692011224029" duration="171000" />
       <workItem from="1692087724084" duration="19368000" />
+      <workItem from="1692114412312" duration="436000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1691650672603</created>
@@ -210,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692011351203</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1">
+      <created>1692114526382</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692114526382</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,8 +239,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1" />
     <MESSAGE value="add redirect" />
-    <option name="LAST_COMMIT_MESSAGE" value="add redirect" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
